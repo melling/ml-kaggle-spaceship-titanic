@@ -2,6 +2,7 @@
 
 ## Notebooks
 
+- [Quickstart](spaceship-titanic-quickstart.ipynb)
 - Analyze
 - [EDA](spaceship-titanic-eda.ipynb)
 - [XGBoot + Optuna]
