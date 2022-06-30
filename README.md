@@ -1,2 +1,17 @@
-# ml-kaggle-spaceship-titanic
-Kaggle Spaceship Titanic Competition Notebooks 
+# Kaggle Spaceship Titanic Competition Notebooks 
+
+## Notebooks
+
+- Analyze
+- [EDA](spaceship-titanic-eda.ipynb)
+- [XGBoot + Optuna]
+
+
+## TODO
+
+- Missing Values
+  - Simple Imputer
+  - KNN
+  - XGBoost
+ - Blend
+ 
