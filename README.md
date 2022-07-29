@@ -21,7 +21,7 @@ Follow me on [Kaggle](https://www.kaggle.com/mmellinger66/)
 - Outliers
 - Feature Selection
 - [XGBoost + LightGBM Blend](spaceship-titanic-xgb-lgbm-blend.ipynb)
-- [Voting Classifier)[spaceship-titanic-voting-classifier.ipynb)
+- [Voting Classifier](spaceship-titanic-voting-classifier.ipynb)
 - [XGBoot + Optuna](spaceship-titanic-xgboost-optuna.ipynb)
 - TensorFlow Decision Forest
 
